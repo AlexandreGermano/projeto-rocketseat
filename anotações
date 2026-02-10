@@ -1,0 +1,43 @@
+Variaveis = caixa onde guardamos um tipo de dado 
+Tipos de dados = Textos; Numeros; Booleanos(valores lógicoss: verdadeiro ou falso) ou dados mais estruturados
+
+let boasVindas = "fala dev!"; boasvindas = "Fala, Dev! Beleza?"
+  boasVindas = nome da variavel 
+  "fala dev!" -> valor atribuido
+
+
+
+!FUNCOES
+  - agrupamento de código
+  - reuso de código
+  - mini programas dentro do programa maior
+  - toda linguagem oferece muitas opções
+    ex: 
+      alert(2+2)
+
+      function sayHello() {
+        alert("Olá")
+      }
+
+      function soma(a, b) {
+        return a + b
+      }
+
+
+
+!Objetos = celular
+  - Atributos -> cor, qtd de cameras 
+  - Metodos -> funcionalidades 
+
+
+Git - Controle de Versão
+  - repositorio
+  - branch
+  - commit
+  - stage
+
+  Comandos
+  git init (inicia o git (repositorio) no seu projeto)
+  git add . (adiciona todos os arquivos modificados, ao stage)
+  git commit -m "mensage here" (cria e descreve um ponto na história)
+  git push (envia alterações para o repositorio remoto)
