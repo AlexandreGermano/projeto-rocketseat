@@ -1,0 +1,16 @@
+- [ ] não determinística; probalística.
+- [ ] contexto
+- [ ] LLM: Large Lenguage Model
+- [ ] autocomplete
+- [ ] active recall
+- [ ] explicações
+  - [ ] cuidados: nem sempre tudo é verdade
+  - [ ] alucinação
+- [ ] agentes: Agentes, Ask (tirar dúvidas, pensar juntos, terideias, explicar...)
+- [ ] Planejar então Gerar (Plan)
+- [ ] Gerar então explicar (Agente)
+- [ ] Three of Trought: árvore do pensamento
+- [ ] documentação
+- [ ] PARE: Pergunte, anote, revise, explique, PARE
+- [ ] Reescreva!
+- [ ] Entender, Escrever, Resolver
